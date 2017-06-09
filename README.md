@@ -5,15 +5,17 @@ Solutions Of Machine Learning course by Andrew ng on coursera in python as well 
  * Machine Learning
 ## Steps to follow
 * Clone this repository `git clone https://github.com/utkarshmani1997/Machine_Learning`
-  1. Using Jupyter Notebook
-  
+
+  1. **Using Jupyter Notebook**
+  
    * Run Jupyter Notebook `jupyter notebook` in terminal.
   
    * Open the notebook  `filename.ipynb` as per requirement
   
    * Click on Kernel button and then click on Restart & Run All
   
-  2. Using Python
+ 
+  2. **Using Python**
    
    * Run `python filename.py` in the terminal
   
