@@ -3,6 +3,7 @@ Solutions Of Machine Learning course by Andrew ng on coursera in python as well 
 ## Prerequisits
  * Python & Python Libraries
  * Machine Learning
+ * Jupyter Notebook
 ## Steps to follow
 * Clone this repository `git clone https://github.com/utkarshmani1997/Machine_Learning`
 
