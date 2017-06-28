@@ -1,5 +1,5 @@
 # Machine_Learning
-Solutions Of Machine Learning course by Andrew ng on coursera in python as well as in Jupyter Notebook.
+Solutions Of Machine Learning course by Andrew ng on coursera in python as well as in Jupyter Notebook.I have created this repository after getting the motivation from https://github.com/jdwittenauer . This repository is for educational purpose only.
 ## Prerequisits
  * Python & Python Libraries
  * Machine Learning
